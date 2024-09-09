@@ -4,7 +4,7 @@
 
 ## 📎 서비스 이용
 [웹 사이트](http://ec2-3-34-5-192.ap-northeast-2.compute.amazonaws.com:8080/v1/login-page)
-
+[시연 동영상](https://www.youtube.com/watch?v=GAc3Ts8aYCA)
 
 ## 🎇 프로젝트 소개
 #### 📅 진행 기간 
